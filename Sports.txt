@@ -1,6 +1,6 @@
 Name of players
 
-Lionel Messi
-Viswanathan Anand
-Lebron James
-Rohit Sharma
+Lionel Messi       30
+Viswanathan Anand   1
+Lebron James       24
+Rohit Sharma       48
